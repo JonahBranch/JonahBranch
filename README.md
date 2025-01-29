@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonahBranch
-- 👀 I’m interested in GUIs and programming languages
-- 🌱 I’m currently learning Koka
-- 💞️ I’m looking to collaborate on Koka and immediate mode GUIs
+- 👀 I’m interested Linux, website development and cyber security
+- 🌱 I’m currently learning Linux command line tools
+- 💞️ I’m looking for employment opportunities in full stack website development or cyber security
 - 📫 How to reach me jonahwilliambranch@gmail.com
 
 <!---
